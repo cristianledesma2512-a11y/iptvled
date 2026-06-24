@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",ANDROID
+http://tecnotv.club/tusw/phpcode/android2.php?c=354&f=.m3u8|User-Agent=suplayer
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @TecnotvChat
+http://tecnotv.club/tusw/phpcode/android2.php?c=354&f=.m3u8|User-Agent=suplayer
+#EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio",TecnoRadio
+https://stream.zeno.fm/qvq7sm8mymzuv.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Victor_E._Wilson_house_from_NE.jpg/330px-Victor_E._Wilson_house_from_NE.jpg" group-title="-",A&E
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/330px-Audi_A3_8Y_Sedan_IMG_5936.jpg" group-title="-",A3 SERIES
+http://tecnotv.club/tusw/phpcode/android.php?c=a0b0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gauguin%2C_Paul_-_Still_Life_with_Profile_of_Laval_-_Google_Art_Project.jpg/330px-Gauguin%2C_Paul_-_Still_Life_with_Profile_of_Laval_-_Google_Art_Project.jpg" group-title="-",ARTS
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/330px-AXN_logo_%282015%29.svg.png" group-title="-",AXN
+http://tecnotv.club/tusw/phpcode/android.php?c=a08w&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_newborn_baby_in_men.jpg/330px-The_newborn_baby_in_men.jpg" group-title="-",BABY TV
+http://tecnotv.club/tusw/phpcode/android.php?c=a0b9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Boomerang_Telescope.jpeg/330px-Boomerang_Telescope.jpeg" group-title="-",BOOMERAN
+http://tecnotv.club/tusw/phpcode/android.php?c=a0c1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",C
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",DICOVERY CHANNEL
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ep&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/330px-Discovery_Turbo_logo.svg.png" group-title="-",DISCOVERY TURBO
+http://tecnotv.club/tusw/phpcode/android.php?c=a0c4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",DISNEY JR
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN
+http://tecnotv.club/tusw/phpcode/android.php?c=a091&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 3
+http://tecnotv.club/tusw/phpcode/android.php?c=a0c3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",E¡
+http://tecnotv.club/tusw/phpcode/android.php?c=a0by&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FORMULA NOTICIAS
+http://tecnotv.club/tusw/phpcode/android.php?c=a0be&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FX
+http://tecnotv.club/tusw/phpcode/android.php?c=a08x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",H&H
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO
+http://tecnotv.club/tusw/phpcode/android.php?c=a0c5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO +
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IMAGEN
+http://tecnotv.club/tusw/phpcode/android.php?c=a0d5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ISAT
+http://tecnotv.club/tusw/phpcode/android.php?c=a0b2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",MC
+http://tecnotv.club/tusw/phpcode/android.php?c=a0co&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",NATGEO LA
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",SEX XTREME
+http://tecnotv.club/tusw/phpcode/android.php?c=a09c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",STUDIO UNIVERSAL
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TLR
+http://tecnotv.club/tusw/phpcode/android.php?c=a0em&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TNT SERIES
+http://tecnotv.club/tusw/phpcode/android.php?c=a0da&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",VENUS
+http://tecnotv.club/tusw/phpcode/android.php?c=a09b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",VIDEO ROLA
+http://tecnotv.club/tusw/phpcode/android.php?c=a0b5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",history 2
+http://tecnotv.club/tusw/phpcode/android.php?c=a0dj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",hola tv
+http://tecnotv.club/tusw/phpcode/android.php?c=a0db&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",milenio
+http://tecnotv.club/tusw/phpcode/android.php?c=a0dm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",once
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CANAL 14
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ax&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CNN
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bd&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",JUSTICIA TV
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",NOTICIAS DEL CONGRESO
+http://tecnotv.club/tusw/phpcode/android.php?c=a0az&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TV UNAM
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ay&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TVC
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",13 realities
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",13 teleseries
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ni&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ADN 40 HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ne&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",AMC
+http://tecnotv.club/tusw/phpcode/android.php?c=a0k8&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",AYM
+http://tecnotv.club/tusw/phpcode/android.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",AYM SPORT HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0mk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",AZTECA 7
+http://tecnotv.club/tusw/phpcode/android.php?c=a0fm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",AZTECA 7 HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0la&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",AZTECA INTER HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0n7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",AZTECA UNO
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",BABY FIRST
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kb&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CANAL 22
+http://tecnotv.club/tusw/phpcode/android.php?c=a0d7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CANAL 5
+http://tecnotv.club/tusw/phpcode/android.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CANAL 5 HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0n6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CANAL INFANTIL SD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ot&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CARTOON NETWORK
+http://tecnotv.club/tusw/phpcode/android.php?c=a0c0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CINE LATINO
+http://tecnotv.club/tusw/phpcode/android.php?c=a0lq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CINEMAX
+http://tecnotv.club/tusw/phpcode/android.php?c=a093&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CLARO SPORT
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CLICK HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0mh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CNN
+http://tecnotv.club/tusw/phpcode/android.php?c=a0dl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",COMEDY CENTRAL
+http://tecnotv.club/tusw/phpcode/android.php?c=a0b3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal del Congreso 45.1
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Cartonito
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",D pelicula
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nn&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",DISCOVERY ID
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ch&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",DISTRITO COMEDIA
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ou&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",DreamWorks TV Latin America
+http://tecnotv.club/tusw/phpcode/android.php?c=a0no&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",EDGE
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",EL 6
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 2
+http://tecnotv.club/tusw/phpcode/android.php?c=a092&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESTRELLAS
+http://tecnotv.club/tusw/phpcode/android.php?c=a0d4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESTRELLAS HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0le&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",EXA TV
+http://tecnotv.club/tusw/phpcode/android.php?c=a0lr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FAST AND FUN BOX
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FAST FUN HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0mi&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FIGTH BOX
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FILM  &  ARTS
+http://tecnotv.club/tusw/phpcode/android.php?c=a0k9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",GAME TOON
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",GINX
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",GOLF CHANNEL
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ct&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO FAMILY
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO MUNDI
+http://tecnotv.club/tusw/phpcode/android.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO SIGNATURE
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ji&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME
+http://tecnotv.club/tusw/phpcode/android.php?c=a096&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HTV
+http://tecnotv.club/tusw/phpcode/android.php?c=a0b7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Justicia TV (Mexico)
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ns&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",LAMEJOR TV
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ls&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",LIFE TIME
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ci&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",MULTI PREMIER
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",MULTICANAL
+http://tecnotv.club/tusw/phpcode/android.php?c=a0lo&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",MULTIPREMIER
+http://tecnotv.club/tusw/phpcode/android.php?c=a0lp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",NBA
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",NFL
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",NICK JR
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ck&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",OUTDOOR
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Once niñas y niños
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",PLAY BOY
+http://tecnotv.club/tusw/phpcode/android.php?c=a09a&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",PX SPORTS
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ku&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",RT
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",SPACE
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",SYFY
+http://tecnotv.club/tusw/phpcode/android.php?c=a0b1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TELEMUNDO INTER HD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0mg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TLC
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TLN Telenovelas. SD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0oy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TRACE
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ky&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TVC DEPORTES
+http://tecnotv.club/tusw/phpcode/android.php?c=a0mj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TVCD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TyC SPORTS
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",UNICABLE
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ov&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",WARNER
+http://tecnotv.club/tusw/phpcode/android.php?c=a0cf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",canal 22.2
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",dw espa
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",el9nueve SD
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ow&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",espn extra
+http://tecnotv.club/tusw/phpcode/android.php?c=a0kf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",fox channel
+http://tecnotv.club/tusw/phpcode/android.php?c=a08v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",france 24
+http://tecnotv.club/tusw/phpcode/android.php?c=a0nm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",letra a
+http://tecnotv.club/tusw/phpcode/android.php?c=a0bu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",teleplay
+http://tecnotv.club/tusw/phpcode/android.php?c=a0ng&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",tnt novelas
+http://tecnotv.club/tusw/phpcode/android.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
