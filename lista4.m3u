@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio",TecnoRadio
+https://stream.zeno.fm/qvq7sm8mymzuv.m3u
+#EXTINF:-1 tvg-logo="https://imgur.com/3GDuhMn.png" group-title="DISTRO TV",XFT TV
+http://tecnotv.club/tusw/phpcode/distro.php?c=xfc-tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Carbon-13.svg/330px-Carbon-13.svg.png" group-title="-",13 C
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07p&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Victor_E._Wilson_house_from_NE.jpg/330px-Victor_E._Wilson_house_from_NE.jpg" group-title="-",A&E HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a058&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",AMC HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a069&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/330px-AXN_logo_%282015%29.svg.png" group-title="-",AXN HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Adult Swim
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a06r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png" group-title="-",Animal Planet HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bethel%2C_72.Holy_land_photographed._Daniel_B._Shepp._1894-1.jpg/330px-Bethel%2C_72.Holy_land_photographed._Daniel_B._Shepp._1894-1.jpg" group-title="-",BETHEL TV
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07q&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Baby TV
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a08a&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CARACOL HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a0a1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CNN Español
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal Capital
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a075&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal Caracol
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a08m&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal Institucional
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a04t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal RCN
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a08n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal TRO
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a072&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/330px-Canal_Uno_%28Ecuador%29_logo.png" group-title="-",Canal Uno
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a04u&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Canal_del_Congreso_%28Mexico%29.svg/330px-Logo_Canal_del_Congreso_%28Mexico%29.svg.png" group-title="-",Canal del Congreso
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="-",Cartoon Network HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Cartoonito
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/330px-CinecanalLA.png" group-title="-",Cinecanal HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a06j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/330px-Cinemax_%28Yellow%29.svg.png" group-title="-",Cinemax
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01q&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",City TV
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a074&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",DHE
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a066&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",DW Espaæol
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bobina_de_cine.jpg/330px-Bobina_de_cine.jpg" group-title="-",De Pelicula
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a080&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel  HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a04e&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Disney Channel
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05y&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Disney Jr.
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",E! Entertainment TV
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a019&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 Latin
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a08c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a061&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07f&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a082&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 6 HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a062&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 7 HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",EWTN
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a06w&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",El Gourmet HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a0as&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Enlace
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Europa Europa
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a08d&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FX HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a016&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Food Network
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO Family HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a02s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a049&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO POP HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HGTV
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05p&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HTV
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a0ax&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",History Channel HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Home & Health HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00u&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ID HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a04h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",LA KALLE
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a04j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Las Estrellas HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a09t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Lifetime
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a0c0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",MTV HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07y&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Nick Jr.
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01u&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",OROMAR TV
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a0a4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Pasiones HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",RCN HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a0a2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",RCN Novelas
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Señal Colombia
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a04s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Space HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Star Channel HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Studio Universal
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a041&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TCM
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TLC
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a060&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a07d&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TNT Series HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a022&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TNT Sports Premium SD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Teleantioquia
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a06g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telecafe
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01z&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telecaribe
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01y&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TelefØ
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01w&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Teleislas
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a073&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telemundo
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telepacifico
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Tlnovelas
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00k&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Tooncast
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a06i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Trece
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a020&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TyC
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a047&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",USA
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a00r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Warner TV HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a04d&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Win
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a084&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Win Sports+ HD
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a01s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Zoom
+http://tecnotv.club/tusw/phpcode/lista4.php?c=a071&token=tecnotokenplustv230516F&f=.m3u8
