@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:0,DIRECTV SPORTS AR
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69547.ts
+#EXTINF:0,DIRECTV SPORTS 2 AR
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69549.ts
+#EXTINF:0,DIRECTV SPORTS CH
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69552.ts
+#EXTINF:0,DIRECTV SPORTS EC
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69557.ts
+#EXTINF:0,DIRECTV SPORTS PLUS EC
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69559.ts
+#EXTINF:0,DIRECTV SPORTS CO
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69567.ts
+#EXTINF:0,DIRECTV SPORTS 2 CO
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69568.ts
+#EXTINF:0,DIRECTV SPORTS URU
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69570.ts
+#EXTINF:0,DIRECTV Sports Per
+#EXTVLCOPT:network-caching=1000
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/151274.ts
