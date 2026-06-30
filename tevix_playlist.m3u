@@ -246,5 +246,7 @@ http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167728.m3u8
 http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167730.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DEPORTE VIP",DEPORTES | SPORTV
 http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167774.m3u8
+#EXTINF:-1 tvg-id="~ HD TLC" tvg-name="CUL | DISCOVERY TLC MEX HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC MEX HD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/19596.ts
 #EXTINF:-1 tvg-id="" tvg-name="RADIO MÁXIMA EXPERIENCIA" tvg-logo="http://goldfull.pro:8880/images/27b1ac3c68c01a2959c076d1a9da119e.png" group-title="⭐️ RADIOS CHILE",RADIO MÁXIMA EXPERIENCIA
 http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/173041.m3u8
