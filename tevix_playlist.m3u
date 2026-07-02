@@ -1,252 +1,70 @@
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD" tvg-logo="http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png" group-title="⭐️ CHILE  ",CL | MEGA HD
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/28244.m3u8
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA SD" tvg-logo="http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png" group-title="⭐️ CHILE  ",CL | MEGA SD
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/28251.m3u8
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION HD" tvg-logo="http://redworld.pro:8880/images/06074edd7f572f827c08c4ef64c49049.png" group-title="⭐️ CHILE  ",CL | CHILEVISION HD
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/58287.m3u8
-#EXTINF:-1 tvg-id="fox.cl" tvg-name="F0X $PORTS 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 1 (CHI)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/120545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/120546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 3 (CHI)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/120547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D GAMES + (CHI)" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + (CHI)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/120548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D GAMES 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES 2 (CHI)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/120550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | A3S" tvg-logo="http://redworld.pro:8880/images/275f7a0c2a55fcac1f240202bcf219a0.png" group-title="⭐️ Telenovelas",Latino | A3S
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/135427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AZ CORAZON" tvg-logo="http://redworld.pro:8880/images/c749fdf8a9943d4e485533e16bed3357.png" group-title="⭐️ Telenovelas",Latino | AZ CORAZON
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/135429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal 5" tvg-logo="http://redworld.pro:8880/images/a6347a1fdacab7eaee2f8a72a0dc421d.png" group-title="⭐️ Telenovelas",Latino | Canal 5
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/135430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="⭐️ Telenovelas",Latino | Canal De Las Estrellas
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/135431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://redworld.pro:8880/images/3cc08b1c9d27766ef4324e457791f37b.png" group-title="⭐️ Telenovelas",Latino | Glitz
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/135432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/135435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TLNovelas" tvg-logo="http://redworld.pro:8880/images/efd44a468c4d56cd88590b069b3fd14a.png" group-title="⭐️ Telenovelas",Latino | TLNovelas
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/135436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TL Novelas Univision" tvg-logo="http://redworld.pro:8880/images/86a28a66b5085df833f6b06f70e2dc55.png" group-title="⭐️ Telenovelas",TL Novelas Univision
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/135439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | GOL TV HD" tvg-logo="http://redworld.pro:8880/images/32b93d81e997e0e62abb75018e5a83c6.png" group-title="⭐️ Deporte Ecuador",EC | GOL TV HD
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/104112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CORAZÓN " tvg-logo="http://goldfull.pro:8880/images/127c1e8a4588c8cc59f4611cc612cf0a.jpeg" group-title="⭐️ RADIOS CHILE",RADIO CORAZÓN 
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO PUNTO 7 (TEMUCO)" tvg-logo="http://goldfull.pro:8880/images/86526fb3f5731fd6ba02725f190b3646.png" group-title="⭐️ RADIOS CHILE",RADIO PUNTO 7 (TEMUCO)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BIO BIO (SANTIAGO)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title="⭐️ RADIOS CHILE",RADIO BIO BIO (SANTIAGO)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BIO BIO ( VALPARAISO)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title="⭐️ RADIOS CHILE",RADIO BIO BIO ( VALPARAISO)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BIO BIO (CONCEPCION)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title="⭐️ RADIOS CHILE",RADIO BIO BIO (CONCEPCION)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BIO BIO (LOS ANGELES)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title="⭐️ RADIOS CHILE",RADIO BIO BIO (LOS ANGELES)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BIO BIO (TEMUCO)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title="⭐️ RADIOS CHILE",RADIO BIO BIO (TEMUCO)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BIO BIO (OSORNO)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title="⭐️ RADIOS CHILE",RADIO BIO BIO (OSORNO)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BIO BIO (VALDIVIA)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title="⭐️ RADIOS CHILE",RADIO BIO BIO (VALDIVIA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BIO BIO (PUERTO MONTT)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title="⭐️ RADIOS CHILE",RADIO BIO BIO (PUERTO MONTT)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO PUDAHUEL" tvg-logo="http://goldfull.pro:8880/images/6f79fafb3db8070b9e56af4aae127284.png" group-title="⭐️ RADIOS CHILE",RADIO PUDAHUEL
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ARAUCANA (TEMUCO)" tvg-logo="http://goldfull.pro:8880/images/28549c31aec3e6498877bf73a10e53f4.png" group-title="⭐️ RADIOS CHILE",RADIO ARAUCANA (TEMUCO)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO COOPERATIVA" tvg-logo="http://goldfull.pro:8880/images/5c5dc0fa42fe80d95cf86b8c4f28ae57.jpg" group-title="⭐️ RADIOS CHILE",RADIO COOPERATIVA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ADN " tvg-logo="http://goldfull.pro:8880/images/7ca61527e084dfdc18259f5f2290c1d4.png" group-title="⭐️ RADIOS CHILE",RADIO ADN 
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ROCK AND POP" tvg-logo="http://goldfull.pro:8880/images/7276782a37970dc095c137506e305f18.jpg" group-title="⭐️ RADIOS CHILE",RADIO ROCK AND POP
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PUNTO 7 (VALPARAISO)" tvg-logo="http://goldfull.pro:8880/images/86526fb3f5731fd6ba02725f190b3646.png" group-title="⭐️ RADIOS CHILE",PUNTO 7 (VALPARAISO)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FMDOS" tvg-logo="http://goldfull.pro:8880/images/8daa3953f44324f45d1fe243d48e4429.jpeg" group-title="⭐️ RADIOS CHILE",RADIO FMDOS
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LOS 40" tvg-logo="http://goldfull.pro:8880/images/a0dcde2c52b65fa988187b2917b7b5d0.jpg" group-title="⭐️ RADIOS CHILE",RADIO LOS 40
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO POSITIVA" tvg-logo="http://goldfull.pro:8880/images/d32f0b55d1485328a0e19d5a9783847b.png" group-title="⭐️ RADIOS CHILE",RADIO POSITIVA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO IMAGINA" tvg-logo="http://goldfull.pro:8880/images/bd419d8e64bc0adc4c4c9f4f8ada1208.jpg" group-title="⭐️ RADIOS CHILE",RADIO IMAGINA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LA RETRO 80S" tvg-logo="http://goldfull.pro:8880/images/238dd81e9838d9dd83fe128d14059335.jpg" group-title="⭐️ RADIOS CHILE",RADIO LA RETRO 80S
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166723.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ACTIVA" tvg-logo="http://goldfull.pro:8880/images/3eb3070af73df133407664783e5b8bf5.jpg" group-title="⭐️ RADIOS CHILE",RADIO ACTIVA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FUTURO" tvg-logo="http://goldfull.pro:8880/images/c7e159bcbf2fd5ed819b2524f946dd82.png" group-title="⭐️ RADIOS CHILE",RADIO FUTURO
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LAS COLINAS (CARAHUE)" tvg-logo="http://goldfull.pro:8880/images/ceb18aa0bd3880df6293517365640d17.jpg" group-title="⭐️ RADIOS CHILE",RADIO LAS COLINAS (CARAHUE)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ANGEL(CARAHUE)" tvg-logo="http://goldfull.pro:8880/images/b4be5705d4af6f4118b095c87842bd4e.png" group-title="⭐️ RADIOS CHILE",RADIO ANGEL(CARAHUE)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAROLINA " tvg-logo="http://goldfull.pro:8880/images/a880c892a070204394fd83d7c6e0f9e7.jpg" group-title="⭐️ RADIOS CHILE",RADIO CAROLINA 
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO DECADA DE LOS 90S" tvg-logo="http://goldfull.pro:8880/images/0c45f8a2da7c90614882959bc2d82bd8.jpg" group-title="⭐️ RADIOS CHILE",RADIO DECADA DE LOS 90S
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO 24/7" tvg-logo="http://goldfull.pro:8880/images/aac7fb49b78dae6e91691fe915a5e558.png" group-title="⭐️ RADIOS CHILE",RADIO 24/7
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LATINA BACHATA" tvg-logo="http://goldfull.pro:8880/images/b5fabdaeb2b0b22452cdf461cbc51ea7.png" group-title="⭐️ RADIOS CHILE",RADIO LATINA BACHATA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO URBANO" tvg-logo="http://goldfull.pro:8880/images/086b3d011424b9134c5dc648cf05f9e1.png" group-title="⭐️ RADIOS CHILE",RADIO URBANO
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO DISNEY" tvg-logo="http://goldfull.pro:8880/images/15cc03341c8a9a0f15b52b8201683a6b.jpg" group-title="⭐️ RADIOS CHILE",RADIO DISNEY
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ESTACIÓN RANCHERA" tvg-logo="http://goldfull.pro:8880/images/f921cbe7fe5ccdb42ed8a4900f05639e.jpg" group-title="⭐️ RADIOS CHILE",RADIO ESTACIÓN RANCHERA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LA PRENDETE" tvg-logo="http://goldfull.pro:8880/images/fee828f79f77e0e7f09f0b765f90a595.png" group-title="⭐️ RADIOS CHILE",RADIO LA PRENDETE
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO MR MUSICA RANCHERA" tvg-logo="http://goldfull.pro:8880/images/02510715a168d21ac3097b56b1f41b4f.jpg" group-title="⭐️ RADIOS CHILE",RADIO MR MUSICA RANCHERA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO TROPIKAL RANCHERAS" tvg-logo="http://goldfull.pro:8880/images/e7089f6722afb79b4f5451b6f904dbb3.png" group-title="⭐️ RADIOS CHILE",RADIO TROPIKAL RANCHERAS
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SABOR A CUMBIA" tvg-logo="http://goldfull.pro:8880/images/88ca264f680c5b14d4cb06af64db86a1.png" group-title="⭐️ RADIOS CHILE",RADIO SABOR A CUMBIA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO MAXIMA CUMBIA" tvg-logo="http://goldfull.pro:8880/images/9ec924518d61ca3d908fb55d94fbbb37.jpg" group-title="⭐️ RADIOS CHILE",RADIO MAXIMA CUMBIA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO PLAY FM" tvg-logo="http://goldfull.pro:8880/images/5c07d32b64b42db3431cab01543b0b56.jpg" group-title="⭐️ RADIOS CHILE",RADIO PLAY FM
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SONAR FM" tvg-logo="http://goldfull.pro:8880/images/da5863a8027953f65680c9b898d2361a.png" group-title="⭐️ RADIOS CHILE",RADIO SONAR FM
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BUENISIMA (PADRE LAS CASAS)" tvg-logo="http://goldfull.pro:8880/images/da969f09246b11652b75567dbd35d159.png" group-title="⭐️ RADIOS CHILE",RADIO BUENISIMA (PADRE LAS CASAS)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CONCIERTO" tvg-logo="http://goldfull.pro:8880/images/509ee9d7147c9f2458d5e359b85431a5.jpeg" group-title="⭐️ RADIOS CHILE",RADIO CONCIERTO
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO PUNTO 7 (VALDIVIA)" tvg-logo="http://goldfull.pro:8880/images/b7d89638dad257d91c73a4463a2a86d3.png" group-title="⭐️ RADIOS CHILE",RADIO PUNTO 7 (VALDIVIA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO PUNTO 7 (PUERTO MONTT)" tvg-logo="http://goldfull.pro:8880/images/b7d89638dad257d91c73a4463a2a86d3.png" group-title="⭐️ RADIOS CHILE",RADIO PUNTO 7 (PUERTO MONTT)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO PICARONA" tvg-logo="http://goldfull.pro:8880/images/206018819522afdb10cf88dca274416b.png" group-title="⭐️ RADIOS CHILE",RADIO PICARONA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO TROPICAL STEREO" tvg-logo="http://goldfull.pro:8880/images/604aead3c073dd0ebcf824f0bb33bda4.png" group-title="⭐️ RADIOS CHILE",RADIO TROPICAL STEREO
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SUPERSOL" tvg-logo="http://goldfull.pro:8880/images/ab3af56c27f36e813570d4ed796d6490.jpeg" group-title="⭐️ RADIOS CHILE",RADIO SUPERSOL
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FM DE LOS RECUERDOS" tvg-logo="http://goldfull.pro:8880/images/357de3102bd83b04d102deb0546597e9.png" group-title="⭐️ RADIOS CHILE",RADIO FM DE LOS RECUERDOS
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO VICTORIA FM " tvg-logo="https://www.victoriafm.cl/radiovictoria.gif" group-title="⭐️ RADIOS CHILE",RADIO VICTORIA FM 
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROCK & POP ( ARGENTINA )" tvg-logo="http://goldfull.pro:8880/images/59c7026544beaaa79d5e6830708de73f.jpg" group-title="⭐️ RADIOS ARGENTINA ",ROCK & POP ( ARGENTINA )
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166764.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO 40 PRINCIPALES (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/3ab951a88d01be0a26cd3d8b711237bc.jpg" group-title="⭐️ RADIOS ARGENTINA ",RADIO 40 PRINCIPALES (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO PLANETA CUMBIA LATINA (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/50624d0c9350e4d1b67cee2bd333d9c3.png" group-title="⭐️ RADIOS ARGENTINA ",RADIO PLANETA CUMBIA LATINA (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RINCON GAUCHO (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/89b0ee9666099b40474757c4e036d161.jpeg" group-title="⭐️ RADIOS ARGENTINA ",RADIO RINCON GAUCHO (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ROCA FM CLASICOS (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/0163acdf5ecccf16bc1d2889bf0905cd.png" group-title="⭐️ RADIOS ARGENTINA ",RADIO ROCA FM CLASICOS (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CVC LA VOZ (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/e93327fdd180cbe290639209cf175b40.jpeg" group-title="⭐️ RADIOS ARGENTINA ",RADIO CVC LA VOZ (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO BELGRANO AM650 (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/51bcd6ca461ef7b8090bb47e57592517.png" group-title="⭐️ RADIOS ARGENTINA ",RADIO BELGRANO AM650 (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SOLO VINILO (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/ae0b253081b5a04e8944f2bf25f4ebc4.jpg" group-title="⭐️ RADIOS ARGENTINA ",RADIO SOLO VINILO (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LIGHT FM 97.3 (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/ad46312d5c7b423065ceab15e1aba708.jpg" group-title="⭐️ RADIOS ARGENTINA ",RADIO LIGHT FM 97.3 (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LA POPULAR (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/9c9230d3a1e0fdbf9d04a58905378468.jpeg" group-title="⭐️ RADIOS ARGENTINA ",RADIO LA POPULAR (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SOLO ROCK NACIONAL (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/290e2b878adc91436de88e71ac0fd2ec.jpg" group-title="⭐️ RADIOS ARGENTINA ",RADIO SOLO ROCK NACIONAL (ARGENTINA)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166779.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RPP LIMA (PERU)" tvg-logo="http://goldfull.pro:8880/images/dd4cf0c317156152d7ab8eec8f94da86.jpg" group-title="⭐️ RADIO PERU",RADIO RPP LIMA (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166784.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO OXIGENO (PERU)" tvg-logo="http://goldfull.pro:8880/images/2bb48f7a8d00cb661bfdfd0802aaa323.jpeg" group-title="⭐️ RADIO PERU",RADIO OXIGENO (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166785.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO EXITOSA (PERU)" tvg-logo="http://goldfull.pro:8880/images/b652f55d76666929be4f1fb7b1971907.jpeg" group-title="⭐️ RADIO PERU",RADIO EXITOSA (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LA INOLVIDABLE (PERU)" tvg-logo="http://goldfull.pro:8880/images/b60fc10c99e18ca791d4694484d9b061.png" group-title="⭐️ RADIO PERU",RADIO LA INOLVIDABLE (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO OASIS (PERU)" tvg-logo="http://goldfull.pro:8880/images/07381f028025192f851a63031ca5aa03.png" group-title="⭐️ RADIO PERU",RADIO OASIS (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO PANAMERICANA (PERU)" tvg-logo="http://goldfull.pro:8880/images/96adb68f2d4fd8728b61c8d7c7fc67ed.png" group-title="⭐️ RADIO PERU",RADIO PANAMERICANA (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RITMO ROMANTICO (PERU)" tvg-logo="http://goldfull.pro:8880/images/04bff3a4dac0dc1c3172290e9b52e371.png" group-title="⭐️ RADIO PERU",RADIO RITMO ROMANTICO (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LA KALLE (PERU)" tvg-logo="http://goldfull.pro:8880/images/91b7b993b4f04f03e2746a2093a47a11.jpeg" group-title="⭐️ RADIO PERU",RADIO LA KALLE (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RADIOMAR (PERU)" tvg-logo="http://goldfull.pro:8880/images/825a15f17d8fe185f9faad95e4610dc6.png" group-title="⭐️ RADIO PERU",RADIO RADIOMAR (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO NUEVA Q (PERU)" tvg-logo="http://goldfull.pro:8880/images/096289eb20a7325f2c5a57ed67bf16ae.png" group-title="⭐️ RADIO PERU",RADIO NUEVA Q (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO MODA TE MUEVE (PERU)" tvg-logo="http://goldfull.pro:8880/images/a2af65ef3b83e57561076e6fa97780b5.png" group-title="⭐️ RADIO PERU",RADIO MODA TE MUEVE (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO Z ROCK & POP (PERU)" tvg-logo="http://goldfull.pro:8880/images/ec32248f0189f0d9b53c67c41fe5fcad.jpg" group-title="⭐️ RADIO PERU",RADIO Z ROCK & POP (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ONDA CERO (PERU)" tvg-logo="http://goldfull.pro:8880/images/4107d27f5a95c3b341dd41f051fe4e35.jpeg" group-title="⭐️ RADIO PERU",RADIO ONDA CERO (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO MAGICA (PERU)" tvg-logo="http://goldfull.pro:8880/images/9838c1adc7dc5ec24117883a9344c0c1.png" group-title="⭐️ RADIO PERU",RADIO MAGICA (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CUMBIA MIX (PERU)" tvg-logo="http://goldfull.pro:8880/images/f234ce9586c3628c34af873941d8c1c1.png" group-title="⭐️ RADIO PERU",RADIO CUMBIA MIX (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO TOP LATINO (PERU)" tvg-logo="http://goldfull.pro:8880/images/4fe5403eea27b4cc73179a811a71175a.png" group-title="⭐️ RADIO PERU",RADIO TOP LATINO (PERU)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO UNIVERSO" tvg-logo="http://goldfull.pro:8880/images/9b6ac7adf1e44099620d349fb9854a54.jpg" group-title="⭐️ RADIOS CHILE",RADIO UNIVERSO
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ROCKIN 80S" tvg-logo="http://goldfull.pro:8880/images/3ee16e26194caf2bd46935e6c76c71a6.jpg" group-title="⭐️ RADIOS CHILE",RADIO ROCKIN 80S
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CUMBRE" tvg-logo="http://goldfull.pro:8880/images/70c6f7153d77e3664a17ee73d0b67612.jpg" group-title="⭐️ RADIOS CHILE",RADIO CUMBRE
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/166884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D3PÖRT3S | [$ŠPN-3]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DEPORTE VIP",D3PÖRT3S | [$ŠPN-3]
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D3PØRT3S | $ŠPN-4" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DEPORTE VIP",D3PØRT3S | $ŠPN-4
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN PR3MIUM EXCLUSIVO" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="⭐️ DEPORTE VIP",DEPORTES | $ŠPN PR3MIUM EXCLUSIVO
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | * $.Š.P.N U" tvg-logo="http://redworld.pro:8880/images/aa94a21674567eb1ab35b6e3a9408b26.png" group-title="⭐️ DEPORTE VIP",DEPORTES | * $.Š.P.N U
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | D GAMES 1" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DEPORTE VIP",DEPORTES | D GAMES 1
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | D GAMES +" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DEPORTE VIP",DEPORTES | D GAMES +
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | D GAMES 2" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DEPORTE VIP",DEPORTES | D GAMES 2
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS 1
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS 2
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS 3
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS PREMIUM
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS +" tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DEPORTE VIP",DEPORTES | WIN SPORTS +
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS " tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DEPORTE VIP",DEPORTES | WIN SPORTS 
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F1" tvg-logo="http://redworld.pro:8880/images/1a13829ef621f7393ece854690b87731.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F1
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOLF CHANNEL" tvg-logo="http://redworld.pro:8880/images/89b80113c1ed34f36bfe6936fcf5ed20.png" group-title="⭐️ DEPORTE VIP",DEPORTES | GOLF CHANNEL
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TENNIS CHANEL " tvg-logo="http://redworld.pro:8880/images/74d04d280b936817eb8146241d8521c9.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TENNIS CHANEL 
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deportes | AFIZZIONADOS" tvg-logo="http://redworld.pro:8880/images/e679f9f23ad226c87b4dd9acaa2fe186.png" group-title="⭐️ DEPORTE VIP",Deportes | AFIZZIONADOS
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ADRENALINA" tvg-logo="http://redworld.pro:8880/images/2865df59d49ef3ec9f4381fc018c078c.png" group-title="⭐️ DEPORTE VIP",DEPORTES | ADRENALINA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167764.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TUDN
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN XTRA" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TUDN XTRA
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVG" tvg-logo="http://redworld.pro:8880/images/d6bd13dae2fc753e0993c6b45644fa17.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TVG
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVG 2" tvg-logo="http://redworld.pro:8880/images/1c1b76b4f7192db1dd44528889d848f9.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TVG 2
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVC Deportes" tvg-logo="http://redworld.pro:8880/images/5766b163e6c57795a1d69de316aa9954.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TVC Deportes
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D GAMES 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES 1 (CHI)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="*Ə$P*N 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ CHILE DEPORTE",*Ə$P*N 2 (CHI)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167964.m3u8
-#EXTINF:-1 tvg-id="ar#espn" tvg-name="*Ə$*PN 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ CHILE DEPORTE",*Ə$*PN 3 (CHI)
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D3PORTES | *Ê$P*N D3PORTES" tvg-logo="http://redworld.pro:8880/images/f4ba5e57ae936428596903dc26f482cc.png" group-title="⭐️ DEPORTE VIP",D3PORTES | *Ê$P*N D3PORTES
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN  NEWS" tvg-logo="http://redworld.pro:8880/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title="⭐️ DEPORTE VIP",DEPORTES | $ŠPN  NEWS
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DEPORTE VIP",DEPORTES | SPORTV
-http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/167774.m3u8
+#EXTM3U
+#EXTINF:0,DIRECTV SPORTS AR
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69547.ts
+#EXTINF:0,DIRECTV SPORTS 2 AR
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69549.ts
+#EXTINF:0,DIRECTV SPORTS CH
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69552.ts
+#EXTINF:0,DIRECTV SPORTS EC
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69557.ts
+#EXTINF:0,DIRECTV SPORTS PLUS EC
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69559.ts
+#EXTINF:0,DIRECTV SPORTS CO
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69567.ts
+#EXTINF:0,DIRECTV SPORTS 2 CO
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69568.ts
+#EXTINF:0,DIRECTV SPORTS URU
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69570.ts
+#EXTINF:0,DIRECTV Sports Per
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/151274.ts
 #EXTINF:-1 tvg-id="~ HD TLC" tvg-name="CUL | DISCOVERY TLC MEX HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC MEX HD
 http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/19596.ts
 #EXTINF:-1 tvg-id="" tvg-name="RADIO MÁXIMA EXPERIENCIA" tvg-logo="http://goldfull.pro:8880/images/27b1ac3c68c01a2959c076d1a9da119e.png" group-title="⭐️ RADIOS CHILE",RADIO MÁXIMA EXPERIENCIA
 http://redworld.pro:8880/live/XQLfRwX364ha/96XAgDjGL5bx/173041.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | SUN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="ARGENTINA",AR | SUN CHANNEL
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/624049.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="ARGENTINA",AR | CINE
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/54215.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | CANAL 9 SALTA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/3d3b0-canal9-2016.png/revision/latest/scale-to-width-down/250?cb=20210526193750&path-prefix=es" group-title="ARGENTINA",AR | CANAL 9 SALTA
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/47017.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="net.ar" tvg-name="AR | NET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA",AR | NET TV
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/54165.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="canal.26.noticias.ar" tvg-name="AR | CANAL 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",AR | CANAL 26
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/54199.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="pakapaka.ar" tvg-name="AR | PAKA PAKA" tvg-logo="https://static.epg.best/ar/PakaPaka.ar.png" group-title="ARGENTINA",AR | PAKA PAKA
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/19555.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="telemax.ar" tvg-name="AR | TELEMAX" tvg-logo="https://play-lh.googleusercontent.com/hM1uXjU4oXRKo1xfBhLLqFuTLNzvDhHw4XUvMOnv7eiR0Px8JFqzJjXQZdptxGcGsA=w240-h480-rw" group-title="ARGENTINA",AR | TELEMAX
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/46973.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv.publica.ar" tvg-name="AR | TV PÚBLICA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PÚBLICA HD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/46972.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="deportv.ar" tvg-name="AR | DEPORTV HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="ARGENTINA",AR | DEPORTV HD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/19709.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | EL TRECE" tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="ARGENTINA",AR | EL TRECE
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/286050.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="telefe.ar" tvg-name="AR | TELEFÉ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ HD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/12933.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="volver.ar" tvg-name="AR | VOLVER" tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ARGENTINA",AR | VOLVER
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/19983.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE HD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/46977.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="cronica.ar" tvg-name="AR | CRÓNICA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png" group-title="ARGENTINA",AR | CRÓNICA TV
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/19708.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="el.trece.ar" tvg-name="AR | EL TRECE HD" tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="ARGENTINA",AR | EL TRECE HD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/46976.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | LITUS TV SANTA FÉ" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Litus-TV-en-vivo-Online.png" group-title="ARGENTINA",AR | LITUS TV SANTA FÉ
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/54231.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="el.garage.ar" tvg-name="AR | GARAGE TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest?cb=20210525001851&path-prefix=es" group-title="ARGENTINA",AR | GARAGE TV FHD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/209745.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="america.ar" tvg-name="AR | AMÉRICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/America_TV_%282018%29.png" group-title="ARGENTINA",AR | AMÉRICA TV HD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/209741.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE SD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/286030.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="telefe.ar" tvg-name="AR | TELEFÉ INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ INTERNACIONAL HD
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/259317.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="c5n.ar" tvg-name="AR | C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="ARGENTINA",AR | C5N
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/242080.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/1200px-A24_%282025%29.svg.png" group-title="ARGENTINA",AR | A24
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/610876.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AR | TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/langes-1100px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",AR | TN
+http://livetv-plus.com:8880/live/tanishacpf/KMNDZ/613255.ts
+
